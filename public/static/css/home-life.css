@@ -1,0 +1,16 @@
+*{margin: 0px;padding: 0px;}
+a{text-decoration: none !important;outline: none !important;color: #000000 !important;}
+li{list-style: none;}
+ul{list-style: none;}
+a:hover{color: #1b1e21}
+.to-oeu{background: #fbfcfc;}
+.li-to{margin: 20px;font-size: 18px;font-family:"Songti TC";text-align: center;}
+.ui-to{border-bottom: 1px solid;line-height: 50px;}
+.link-ul{font-size: 15px;font-family: "Songti TC";overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+.home-right-top{margin-top: 2%;}
+.home-right-life{border-bottom: 1px solid;padding:10px;display: block;text-align: center;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}
+.page-link{color: #1b1e21;border-color: #1b1e21;background-color: #fbfcfc;} 待处理
+.home-link-life{font-size: 15px;}
+.page-butt{width: 100px;}
+.home-bottom{height: 20px;width:100%;background: #1b1e21;color: #fbfcfc;position: fixed;bottom: 0;font-size: 13px;text-align: center;}
+.homg-yan{font-size: 16px;position: fixed;bottom: 25px;width: 100%;text-align: center;}
