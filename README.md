@@ -1,4 +1,4 @@
-Yue liang-bolg
+月亮博客
 ===============
 
 > 运行环境要求PHP7.1+，兼容PHP8.0。
@@ -16,7 +16,7 @@ Yue liang-bolg
 
 * 版权所有Copyright ©2021 By Yueliang
 
-All rights reserved。
+* All rights reserved。
 
 ## 安装
 * 按照Thinkphp6
